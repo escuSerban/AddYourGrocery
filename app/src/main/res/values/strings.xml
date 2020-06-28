@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Grocery List</string>
+    <string name="basket">basket</string>
+    <string name="add_new_item">Add a new shopping item</string>
+    <string name="name_hint">Name</string>
+    <string name="amount_hint">Amount</string>
+    <string name="cancel_view">CANCEL</string>
+    <string name="add_view">ADD</string>
+    <string name="tv_name">TextView</string>
+    <string name="tv_amount">TextView</string>
+</resources>
